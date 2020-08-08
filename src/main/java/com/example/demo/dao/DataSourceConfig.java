@@ -7,8 +7,13 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.Primary;
 import org.springframework.jdbc.core.JdbcTemplate;
-
 import javax.sql.DataSource;
+/**
+ * @Author: 江宝明
+ * @Description:
+ * @Date:2020/08/08
+ * @Modified By：
+ */
 
 @Configuration
 public class DataSourceConfig {
